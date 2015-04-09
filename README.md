@@ -1,1 +1,1 @@
-I want to analysis ViewPagerIndicator form JakeWarton.
+I want to analysis ViewPagerIndicator from JakeWarton.
